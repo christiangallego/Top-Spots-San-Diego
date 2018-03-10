@@ -2,7 +2,7 @@
 
 ## Project Requirements
 
-Given a JSON file and npm modules:
+Given a JSON file and the npm modules:
 
 * Create index.html and main.js structure
 * Create an HTML table with headers
@@ -18,7 +18,7 @@ Given a JSON file and npm modules:
 * CSS
 
 
-### Installing
+## Installing
 
 Clone this repository by running the following command in your terminal:
 
